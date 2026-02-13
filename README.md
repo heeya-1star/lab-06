@@ -1,6 +1,6 @@
 # lab-06
-#Student Details
+# Student Details
 Full Name: Heeya patel
 CCID: heeya1
-#References and Resources
+# References and Resources
 N/A
